@@ -1,4 +1,4 @@
-PREGUNTA 1 - TEMA C
+#PREGUNTA 1 - TEMA C
 #-*- coding: 1252 *
 
 
@@ -47,7 +47,7 @@ def menu():
     menu()
 
 menu()
-PREGUNTA 2 – TEMA A
+#PREGUNTA 2 – TEMA A
 #-*- coding: 1252 *
 import random
 
@@ -77,7 +77,7 @@ veces_repirte = numeros.count(numero_menos)
 print("Veces que se repite el número menor: {}".format(veces_repirte))
 numeros_descendente = sorted(numeros, reverse=True)
 print("Ordenado descendente: {}".format(numeros_descendente))
-PREGUNTA 3 – TEMA B
+#PREGUNTA 3 – TEMA B
 import random
 
 class  CEncuesta :
@@ -182,7 +182,7 @@ def main():
 
     print( edad_Skype == -1 and "No hay hombre más viejo que utiliza Skype" or f"Edad de la mujer que no utiliza skype: {edad_Skype}")
 main()
-PREGUNTA 4 - TEMA A
+#PREGUNTA 4 - TEMA A
 #-*- coding: 1252 *
 import random
 import matplotlib.pyplot as plt
